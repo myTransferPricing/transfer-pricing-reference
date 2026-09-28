@@ -13,6 +13,7 @@ Maintained by the team behind [myTransferPricing](https://mytransferpricing.com)
 | `methods/` | Step-by-step guides to benchmarking, the arm's length range and the interquartile range | OECD Guidelines, Chapter III |
 | `checklists/` | Master file and local file documentation checklists (BEPS Action 13) | OECD Guidelines, Chapter V |
 | `prompts/` | Prompts and instructions for using AI agents on transfer pricing work | Our own practice |
+| `disclaimers/` | Not-tax-advice notice, the OECD licence check and how we attribute adapted material | [disclaimers/README.md](./disclaimers/README.md) |
 
 Folders are added as material is published. An empty folder means the material is still being written.
 
@@ -41,4 +42,4 @@ Corrections are welcome as pull requests. Cite the OECD paragraph, the country p
 
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may copy, adapt and redistribute this material, including commercially, as long as you credit myTransferPricing and link back to this repository.
 
-This material is general information, not tax advice. Check the current OECD text and national law before relying on it.
+This material is general information, not tax advice. Check the current OECD text and national law before relying on it. The licence basis for reusing OECD material, and how we checked it, is in [disclaimers/README.md](./disclaimers/README.md).
