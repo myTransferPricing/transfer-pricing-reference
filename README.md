@@ -40,9 +40,6 @@ Two free tools apply the methods described here, with no signup:
 
 The files are plain markdown with no front matter beyond a title and source line, so they can be dropped into a context window, a retrieval index or an agent's skills folder as they are. When you cite them, cite the primary OECD source named at the top of each file as well.
 
-## Contributing
-
-Corrections are welcome as issues or pull requests; see [CONTRIBUTING.md](./CONTRIBUTING.md). To cite this repository, use [CITATION.cff](./CITATION.cff). Releases are archived on Zenodo with a DOI, and the country profiles are mirrored as a dataset on Hugging Face; the dataset card is in [datasets/huggingface](./datasets/huggingface/README.md).
 
 ## Licence
 
