@@ -10,7 +10,7 @@ license: CC-BY-4.0
 
 Paste the prompt below into an AI assistant together with two files: the country's markdown profile from [country-profiles/](../country-profiles/README.md) and the local file under review. Fill in the three bracketed fields.
 
-Before you paste a local file anywhere: it holds client and group data. Use only a model whose data terms your firm has accepted, and remove names, amounts and counterparties the review does not need.
+Before you paste a local file anywhere: it holds client and group data. Use only a model whose data terms your firm has accepted, and remove names, amounts and counterparties the review does not need. myTransferPricing runs this review inside an EU-hosted workspace with a full audit trail; [request a demo](https://app.mytransferpricing.com/early-access) to see it.
 
 ## The prompt
 
