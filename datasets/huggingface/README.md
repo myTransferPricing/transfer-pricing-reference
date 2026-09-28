@@ -1,5 +1,5 @@
 ---
-pretty_name: Transfer pricing country profiles (OECD questionnaire, 18 jurisdictions)
+pretty_name: Transfer pricing country rules, adapted from the OECD Transfer Pricing Country Profiles
 license: cc-by-4.0
 language:
   - en
@@ -19,7 +19,9 @@ source_datasets:
   - original
 ---
 
-# Transfer pricing country profiles
+# Transfer pricing country rules, adapted from the OECD Transfer Pricing Country Profiles
+
+Authorship: the underlying profiles are published by the OECD, with answers supplied by each jurisdiction's tax administration. myTransferPricing is the author of this adaptation only (conversion to markdown, structure and links), not of the underlying work.
 
 Country-by-country transfer pricing rules for 18 jurisdictions, one markdown file each, adapted from that country's OECD Transfer Pricing Country Profile. Each file holds the OECD questionnaire (up to 47 numbered questions) with the jurisdiction's answer and the legal sources it cited: arm's length principle, accepted transfer pricing methods, comparability analysis, intangibles, intra-group services, financial transactions, documentation thresholds and deadlines, dispute resolution, safe harbours and penalties.
 
