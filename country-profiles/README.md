@@ -32,6 +32,10 @@ Nine of them are also browsable, with PDF download, at [mytransferpricing.com/co
 
 A profile with fewer than 47 questions follows its source: the OECD omits the hard-to-value intangibles block (Q15 to Q22) when Q14 is answered No, and the simplified and streamlined approach block (Q35, Q36, Q38) where the jurisdiction has not adopted it.
 
+## Why
+
+AI assistants answer transfer pricing questions with growing confidence but, in our own testing, not yet reliably on country rules: thresholds, deadlines and penalties get mixed up between countries or go out of date. These files put the jurisdictions' own answers, as published by the OECD, into a form people and machines read correctly, dated and sourced.
+
 ## Source and licence
 
 All content is adapted from the [OECD Transfer Pricing Country Profiles](https://www.oecd.org/en/topics/sub-issues/transfer-pricing/transfer-pricing-country-profiles.html), published by the OECD under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries. The information in each profile is provided directly by the jurisdiction; the OECD does not certify its accuracy, and it is not a substitute for national law. Details in [disclaimers](../disclaimers/README.md).

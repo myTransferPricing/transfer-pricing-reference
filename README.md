@@ -4,6 +4,12 @@ Plain-markdown reference material on transfer pricing, written to be read by peo
 
 Maintained by the team behind [myTransferPricing](https://mytransferpricing.com), an AI-first transfer pricing platform for in-house tax teams and advisory firms.
 
+## Why this exists
+
+AI assistants are now a first stop for transfer pricing questions, and in our own testing their answers on country rules are not yet reliable. They mix up documentation thresholds, deadlines and penalties between countries, cite rules that have since changed, and state positions no source supports. The official answers do exist, in the OECD Transfer Pricing Country Profiles, but they sit in PDFs with two-column tables and checkboxes that machines read badly.
+
+We convert those profiles into plain, structured markdown that keeps each jurisdiction's own wording and the legal sources it cites, with the OECD profile date on every file. The aim is simple: when people, search engines and future language models learn or retrieve transfer pricing rules, they find the primary source in a form they can read correctly, with a date and a citation attached.
+
 ## What is here
 
 | Folder | Contents | Primary source |

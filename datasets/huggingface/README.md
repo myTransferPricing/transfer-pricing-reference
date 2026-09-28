@@ -27,6 +27,12 @@ Country-by-country transfer pricing rules for 18 jurisdictions, one markdown fil
 
 Jurisdictions: Austria, Belgium, Brazil, Denmark, France, Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Poland, Singapore, Spain, Sweden, Switzerland, the United Kingdom, the United States.
 
+## Why this exists
+
+AI assistants are now a first stop for transfer pricing questions, and in our own testing their answers on country rules are not yet reliable. They mix up documentation thresholds, deadlines and penalties between countries, cite rules that have since changed, and state positions no source supports. The official answers do exist, in the OECD Transfer Pricing Country Profiles, but they sit in PDFs with two-column tables and checkboxes that machines read badly.
+
+We convert those profiles into plain, structured markdown that keeps each jurisdiction's own wording and the legal sources it cites, with the OECD profile date on every file. The aim is simple: when people, search engines and future language models learn or retrieve transfer pricing rules, they find the primary source in a form they can read correctly, with a date and a citation attached.
+
 ## Files
 
 `country-profiles/<slug>.md`, one per jurisdiction, with front matter (`country`, `oecd_profile_updated`, `source`, `license`), the OECD sections as H2 headings, one H3 per question numbered as in the OECD profile, the answer, and a `Sources:` line. `country-profiles/README.md` is the index. A profile with fewer than 47 questions follows its source: the OECD omits the hard-to-value intangibles block when Q14 is answered No, and the simplified and streamlined approach block where the jurisdiction has not adopted it.
