@@ -9,10 +9,10 @@ Maintained by the team behind [myTransferPricing](https://mytransferpricing.com)
 | Folder | Contents | Primary source |
 |---|---|---|
 | `oecd-guidelines/` | Chapter-by-chapter explanations of the OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations (2022 edition) | [OECD Transfer Pricing Guidelines](https://www.oecd.org/en/publications/oecd-transfer-pricing-guidelines-for-multinational-enterprises-and-tax-administrations-2022_0e655865-en.html) |
-| `country-profiles/` | Country-by-country rules: arm's length principle, methods, documentation thresholds, penalties and deadlines | [OECD transfer pricing country profiles](https://www.oecd.org/en/topics/sub-issues/transfer-pricing/transfer-pricing-country-profiles.html) |
+| `country-profiles/` | Rules for 18 jurisdictions: arm's length principle, methods, documentation thresholds, penalties and deadlines | [OECD transfer pricing country profiles](https://www.oecd.org/en/topics/sub-issues/transfer-pricing/transfer-pricing-country-profiles.html) |
 | `methods/` | Step-by-step guides to benchmarking, the arm's length range and the interquartile range | OECD Guidelines, Chapter III |
 | `checklists/` | Master file and local file documentation checklists (BEPS Action 13) | OECD Guidelines, Chapter V |
-| `prompts/` | Prompts and instructions for using AI agents on transfer pricing work | Our own practice |
+| `prompts/` | Prompts for AI assistants, starting with a review of a local file against a country profile | Our own practice |
 | `disclaimers/` | Not-tax-advice notice, the OECD licence check and how we attribute adapted material | [disclaimers/README.md](./disclaimers/README.md) |
 
 Folders are added as material is published. An empty folder means the material is still being written.
@@ -21,7 +21,7 @@ Folders are added as material is published. An empty folder means the material i
 
 Every country page is summarised from that country's entry in the OECD transfer pricing country profiles, which each tax administration completes and the OECD publishes. Where a page adds a local-law detail that is not in the profile, the page cites the national source. Profiles are updated by the OECD on a rolling basis, so each page states the profile date it was summarised from.
 
-The same country rules are available in a browsable form at [mytransferpricing.com/country-profiles](https://mytransferpricing.com/country-profiles).
+Nine of the country profiles are also browsable at [mytransferpricing.com/country-profiles](https://mytransferpricing.com/country-profiles); the index in `country-profiles/` marks which.
 
 ## Free tools
 
@@ -36,7 +36,7 @@ The files are plain markdown with no front matter beyond a title and source line
 
 ## Contributing
 
-Corrections are welcome as pull requests. Cite the OECD paragraph, the country profile question number or the national law article that supports the change.
+Corrections are welcome as issues or pull requests; see [CONTRIBUTING.md](./CONTRIBUTING.md). To cite this repository, use [CITATION.cff](./CITATION.cff).
 
 ## Licence
 

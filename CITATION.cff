@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this material, cite it as below and credit the OECD for the underlying country profiles."
+title: "Transfer pricing reference: OECD guidelines, country rules and methods"
+type: dataset
+authors:
+  - name: "myTransferPricing"
+    website: "https://mytransferpricing.com"
+license: CC-BY-4.0
+repository-code: "https://github.com/myTransferPricing/transfer-pricing-reference"
+url: "https://github.com/myTransferPricing/transfer-pricing-reference"
+date-released: 2026-09-28
+keywords:
+  - transfer pricing
+  - OECD Transfer Pricing Guidelines
+  - transfer pricing country profiles
+  - arm's length principle
+  - BEPS Action 13
+references:
+  - type: report
+    title: "Transfer Pricing Country Profiles"
+    authors:
+      - name: "OECD"
+    url: "https://www.oecd.org/en/topics/sub-issues/transfer-pricing/transfer-pricing-country-profiles.html"
+    license: CC-BY-4.0
