@@ -439,3 +439,4 @@ No specific guidance is provided in the Polish legislation. However, the Polish 
 - [Arm's length range generator](https://mytransferpricing.com/tools/arm-length-range): compute the interquartile range from your comparables, free, no signup.
 - [Transfer pricing documentation checklist](https://mytransferpricing.com/tools/tp-documentation-checklist): master file and local file contents under BEPS Action 13.
 - [OECD Transfer Pricing Guidelines 2022](https://www.oecd.org/en/publications/oecd-transfer-pricing-guidelines-for-multinational-enterprises-and-tax-administrations-2022_0e655865-en.html): the guidance Poland's rules refer back to.
+- [myTransferPricing](https://mytransferpricing.com): AI-drafted transfer pricing documentation for in-house tax teams and advisory firms, hosted in the EU.
