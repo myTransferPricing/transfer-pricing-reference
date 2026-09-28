@@ -1,0 +1,26 @@
+{
+  "title": "Transfer pricing reference: OECD guidelines, country rules and methods",
+  "description": "<p>Plain-markdown reference material on transfer pricing, written for people and AI agents. It holds country-by-country transfer pricing rules for 18 jurisdictions (Austria, Belgium, Brazil, Denmark, France, Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Poland, Singapore, Spain, Sweden, Switzerland, the United Kingdom and the United States), each adapted from that country's OECD Transfer Pricing Country Profile: arm's length principle, accepted transfer pricing methods, comparability analysis, intangibles, intra-group services, financial transactions, documentation thresholds and deadlines, dispute resolution and safe harbours. It also holds prompts for using AI assistants on transfer pricing work.</p><p>This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries. The information in each profile is provided directly by the jurisdiction; the OECD does not certify its accuracy, and it is not a substitute for national law. General information, not tax advice.</p>",
+  "creators": [
+    {"name": "myTransferPricing"}
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "transfer pricing",
+    "OECD Transfer Pricing Guidelines",
+    "transfer pricing country profiles",
+    "arm's length principle",
+    "BEPS Action 13",
+    "international tax",
+    "tax law"
+  ],
+  "related_identifiers": [
+    {"identifier": "https://www.oecd.org/en/topics/sub-issues/transfer-pricing/transfer-pricing-country-profiles.html", "relation": "isDerivedFrom", "resource_type": "publication-report"},
+    {"identifier": "https://github.com/myTransferPricing/transfer-pricing-reference", "relation": "isSupplementTo", "resource_type": "dataset"},
+    {"identifier": "https://mytransferpricing.com/country-profiles", "relation": "isIdenticalTo", "resource_type": "other"}
+  ],
+  "language": "eng",
+  "notes": "Source: OECD Transfer Pricing Country Profiles, editions May 2025 to January 2026, published by the OECD under CC BY 4.0. Country rules are also browsable at https://mytransferpricing.com/country-profiles."
+}
