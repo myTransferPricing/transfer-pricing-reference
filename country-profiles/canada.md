@@ -111,7 +111,7 @@ Sources: [TPM-04, Third Party Information](https://www.canada.ca/en/revenue-agen
 
 **Yes.**
 
-Canada's legislation does not mention ranges or statistical tools. Canada's published domestic administrative guidance allows the use of arm's length ranges but instructs taxpayers not to use interquartile ranges or multiple-year averages to determine arm' s length prices. The averaging of historical outcomes of comparable transactions over multiple years may provide information relevant in an advance pricing arrangement (APA) context. Nonetheless, even in this context transfer prices used will be verified on a year-by-year basis.
+Canada's legislation does not mention ranges or statistical tools. Canada's published domestic administrative guidance allows the use of arm's length ranges but instructs taxpayers not to use interquartile ranges or multiple-year averages to determine arm's length prices. The averaging of historical outcomes of comparable transactions over multiple years may provide information relevant in an advance pricing arrangement (APA) context. Nonetheless, even in this context transfer prices used will be verified on a year-by-year basis.
 
 Sources: [TPM-16, Role of Multiple Year Data in Transfer Pricing Analyses](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/transfer-pricing/16-role-multiple-year-data-transfer-pricing-analyses.html)
 
@@ -238,8 +238,6 @@ Sources: [Canada's MAP Profile](https://www.oecd.org/content/dam/oecd/en/topics/
 ### Q34. Does your domestic transfer pricing framework allow the application of the simplified and streamlined approach for baseline marketing and distribution activities?
 
 **No.**
-
-34), it is not necessary to respond to questions 35, 36 and 38 and transfer pricing country profile.
 
 ### Q37. Does your jurisdiction respect the outcome of the application of the simplified and streamlined approach by a covered jurisdiction?
 

@@ -337,8 +337,6 @@ Sources: [Frequently Asked Questions on the Simplified and Streamlined Approach 
 
 **Yes.**
 
-34), it is not necessary to respond to questions 35, 36 and 38 and transfer pricing country profile.
-
 ## Safe Harbours
 
 ### Q39. Does your jurisdiction provide for any safe harbours or other simplification measures in respect of certain industries, types of taxpayers, or types of transactions?

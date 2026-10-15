@@ -33,7 +33,7 @@ Sources: [Sections YD 5, YD 5B, GB 2 and GC 6-14 of the Income Tax Act 2007](htt
 
 **Yes.**
 
-New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 20 22 and requires domestic rules apply consistently with these.
+New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 2022 and requires domestic rules apply consistently with these.
 
 Sources: [Section GC 6 (1B) of the Income Tax Act 2007](http://www.legislation.govt.nz/act/public/2007/0097/latest/DLM1512301.html)
 
@@ -59,7 +59,7 @@ Sources: [Section GC 13(2) of the Income Tax Act 2007](http://www.legislation.go
 
 Most appropriate method.
 
-Under section GC 1 3(1), the method that produces the most reliable measure of the arm's length amount of consideration must be applied. Section GC 13(3) provides criteria for the choice and application of the method. New Zealand follows the detailed guidance in Chapter III of the OECD TPG.
+Under section GC 13(1), the method that produces the most reliable measure of the arm's length amount of consideration must be applied. Section GC 13(3) provides criteria for the choice and application of the method. New Zealand follows the detailed guidance in Chapter III of the OECD TPG.
 
 Sources: [Sections GC 13(1) to (3) of the Income Tax Act 2007](http://www.legislation.govt.nz/act/public/2007/0097/latest/DLM1512301.html)
 
@@ -69,7 +69,7 @@ Sources: [Sections GC 13(1) to (3) of the Income Tax Act 2007](http://www.legisl
 
 For controlled transactions involving commodities, the guidance contained in paragraphs 2.18-2.22 of the TPG is followed.
 
-New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 20 22 and requires domestic rules apply consistently with these.
+New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 2022 and requires domestic rules apply consistently with these.
 
 ## Comparability Analysis
 
@@ -77,9 +77,9 @@ New Zealand's domestic transfer pricing legislation explicitly refers to the OEC
 
 **Yes.**
 
-Under section GC 1 3(3), the choice and application of a transfer pricing method must be made having regard to the degree of comparability between the uncontrolled transactions used for comparison and the controlled transactions of the taxpayer.
+Under section GC 13(3), the choice and application of a transfer pricing method must be made having regard to the degree of comparability between the uncontrolled transactions used for comparison and the controlled transactions of the taxpayer.
 
-New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 20 22 and requires domestic rules apply consistently with these.
+New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 2022 and requires domestic rules apply consistently with these.
 
 Sources: [Section GC 13(3) of the Income Tax Act 2007](http://www.legislation.govt.nz/act/public/2007/0097/latest/DLM1512301.html)
 
@@ -117,7 +117,7 @@ The use of comparability adjustments is justified to the extent that comparabili
 
 The domestic transfer pricing framework follows the guidance in Chapter VI of the TPG.
 
-New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 20 22 and requires domestic rules apply consistently with these.
+New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 2022 and requires domestic rules apply consistently with these.
 
 ### Q13. Are there any other rules outside your transfer pricing framework that are relevant for the pricing of controlled transactions involving intangibles?
 
@@ -131,7 +131,7 @@ New Zealand's domestic transfer pricing legislation explicitly refers to the OEC
 
 The domestic transfer pricing framework follows the guidance on HTVI in Chapter VI of the TPG.
 
-New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 20 22 and requires domestic rules to be applied consistently with these.
+New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 2022 and requires domestic rules to be applied consistently with these.
 
 ### Q15. If your jurisdiction applies the HTVI approach, what are the conditions for the application of the HTVI approach?
 
@@ -148,8 +148,6 @@ The statute of limitations for all transfer pricing transactions, including HTVI
 ### Q18. Can taxpayers request a bilateral or multilateral advance pricing agreement for transactions falling within the scope of the HTVI approach?
 
 **Yes.**
-
-question 14), it is not necessary to respond to the remaining questions in the HTVI section and
 
 ### Q19. What measures exist or approaches have been adopted to avoid the use of hindsight?
 
@@ -175,7 +173,7 @@ Other: Adjustments are generally made in the income year to which they relate.
 
 The domestic transfer pricing framework follows the guidance in Chapter VII of the TPG.
 
-New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 20 22 and requires domestic rules apply consistently with these.
+New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 2022 and requires domestic rules apply consistently with these.
 
 ### Q24. Does your domestic transfer pricing framework provide for or allow the application of a simplified approach for low value-adding intra-group services?
 
@@ -199,7 +197,7 @@ Sources: [Simplification measures for transfer pricing](https://www.ird.govt.nz/
 
 The domestic transfer pricing framework follows the guidance in Chapter X of the TPG.
 
-New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 20 22 and requires domestic rules to be applied consistently with these.
+New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 2022 and requires domestic rules to be applied consistently with these.
 
 ### Q27. Are there any other rules outside your transfer pricing framework that are relevant for the tax treatment of financial transactions?
 
@@ -211,7 +209,7 @@ A general summary is as follows:
 
 2. Interest deductions are subject to the thin capitalisation regime.
 
-3. New Zealand has implemented interest limitation rules for c ross-border related borrowing.
+3. New Zealand has implemented interest limitation rules for cross-border related borrowing.
 
 ## Cost Contribution Arrangements
 
@@ -221,7 +219,7 @@ A general summary is as follows:
 
 The domestic transfer pricing framework follows the guidance in Chapter VIII of the TPG.
 
-New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 20 22 and requires domestic rules to be applied consistently with these.
+New Zealand's domestic transfer pricing legislation explicitly refers to the OECD Transfer Pricing Guidelines 2022 and requires domestic rules to be applied consistently with these.
 
 ## Transfer Pricing Documentation
 
@@ -253,7 +251,7 @@ General tax penalties may apply where an adjustment is made by Inland Revenue, n
 
 ### Q33. Which mechanisms are available in your jurisdiction to prevent and/or resolve transfer pricing disputes?
 
-Available mechanisms: Rulings; Enhanced engagement or cooperative compliance program me s; Advance Pricing Agreements (APA): Unilateral APAs, Bilateral APAs, Multilateral APAs; Mutual Agreement Procedures.
+Available mechanisms: Rulings; Enhanced engagement or cooperative compliance programmes; Advance Pricing Agreements (APA): Unilateral APAs, Bilateral APAs, Multilateral APAs; Mutual Agreement Procedures.
 
 Further information on New Zealand's APA programme can be found at Advance pricing agreements (ird.govt.nz). (Note, in New Zealand a Unilateral APA is a Ruling). Further information on New Zealand's MAP programme can be found at Mutual agreement procedure (MAP) (ird.govt.nz).
 

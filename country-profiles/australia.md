@@ -43,7 +43,7 @@ Sources: [Section 815-135](https://www.ato.gov.au/law/view/document?docid=PAC/19
 
 **No.**
 
-Australia's transfer pricing legislation does not provide a definition of related parties. Australia's transfer pricing legislation is applicable if an entity gets a tax benefit in Australia from non-arm's length conditions, where those conditions satisfy a cross-border test, regardless of whether there is common voting control or ownership of capital or distribution rights. A rm's length conditions are defined as those that might be expected to operate between independent entities dealing wholly independent ly with one another in comparable circumstances.
+Australia's transfer pricing legislation does not provide a definition of related parties. Australia's transfer pricing legislation is applicable if an entity gets a tax benefit in Australia from non-arm's length conditions, where those conditions satisfy a cross-border test, regardless of whether there is common voting control or ownership of capital or distribution rights. A rm's length conditions are defined as those that might be expected to operate between independent entities dealing wholly independently with one another in comparable circumstances.
 
 However, a definition of international related parties is used for the purposes of the Australian local file of the Country-by-Country report.
 
@@ -281,13 +281,13 @@ Sources: [ATO webpage CbC reporting guidance under the heading 'Exemptions (incl
 
 Available mechanisms: Rulings; Enhanced engagement or cooperative compliance programmes; Advance Pricing Agreements (APA): Unilateral APAs, Bilateral APAs, Multilateral APAs; International Compliance Assurance Programme (ICAP); Mutual Agreement Procedures; Other.
 
-Australia hasan APA program me in place. For more information on the administration of the APA program me please refer to Practice Statement Law Administration PS LA 2015/4 Advanced Pricing Arrangements.
+Australia has an APA programme in place. For more information on the administration of the APA programme please refer to Practice Statement Law Administration PS LA 2015/4 Advanced Pricing Arrangements.
 
-Australia signed up to ICAP since the program me commencement and participated in a number of MNE reviews.
+Australia signed up to ICAP since the programme commencement and participated in a number of MNE reviews.
 
 For more information on Australia's administration of MAPs, please refer to Australia's MAP profile.
 
-Additionally, Australia has public guidance and assurance program me s, including the justified trust program me in place across certain taxpayer populations where assurance levels are assessed by the ATO and are provided to the taxpayer.
+Additionally, Australia has public guidance and assurance programmes, including the justified trust programme in place across certain taxpayer populations where assurance levels are assessed by the ATO and are provided to the taxpayer.
 
 Further, taxpayers may seek to object, review or appeal if dissatisfied with a taxation decision as defined in Part IVC of the TAA 1953. A "taxation decision" for these purposes includes an income tax assessment.
 

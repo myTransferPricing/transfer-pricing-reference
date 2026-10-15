@@ -33,7 +33,7 @@ Sources: [Section 23 para 7](https://www.zakonyprolidi.cz/cs/1992-586#Top)
 
 **Yes.**
 
-The OECD Transfer Pricing Guidelines (TPG) are a source of inte rpr etation and binding for domestic and internation al transactions. The reference to the OECD TPG is in on Guidance D-59. It is the methodological explanation of the Income Tax Act generally used by taxpayers and binding for tax administration.
+The OECD Transfer Pricing Guidelines (TPG) are a source of interpretation and binding for domestic and international transactions. The reference to the OECD TPG is in on Guidance D-59. It is the methodological explanation of the Income Tax Act generally used by taxpayers and binding for tax administration.
 
 Sources: [The Czech Income Tax Act 586/1992 Coll.,](https://www.zakonyprolidi.cz/cs/1992-586#Top)
 
@@ -153,7 +153,7 @@ Chapter I and VI are used for the transaction falling within the scope of the HT
 
 ### Q17. What is the statute of limitations applicable to transactions falling within the scope of the HTVI approach in your domestic transfer pricing framework?
 
-There is no specific statu te of limitations.
+There is no specific statute of limitations.
 
 ### Q18. Can taxpayers request a bilateral or multilateral advance pricing agreement for transactions falling within the scope of the HTVI approach?
 
@@ -329,7 +329,7 @@ They do not follow the AOA (please provide a summary of the main features of the
 
 Main features are specified in the Czech Income Tax Act 586/1992 Coll., Section 23 para 11, which is worded as follows:
 
-(11) For a permanent establishment (Section 22 Subsection 2), the tax base may not be lower or the tax loss higher than the base or loss that would be reached from the same or similar activity performed under similar conditions by a payer with its registered office or residence in the territory of the Czech Republic. For determining such fact, it is possible to use the proportion of the profit or loss to the costs or gross income of comparable payers or activities, a comparable amount of trade margin (commission), and other comparable data. It is also possible to use the method of distributing the total profit or loss of the establisher of the permanent establishment betw een/among its parts.
+(11) For a permanent establishment (Section 22 Subsection 2), the tax base may not be lower or the tax loss higher than the base or loss that would be reached from the same or similar activity performed under similar conditions by a payer with its registered office or residence in the territory of the Czech Republic. For determining such fact, it is possible to use the proportion of the profit or loss to the costs or gross income of comparable payers or activities, a comparable amount of trade margin (commission), and other comparable data. It is also possible to use the method of distributing the total profit or loss of the establisher of the permanent establishment between/among its parts.
 
 Some rules are also in Methodical Instruction on the Procedure for Taxation of Income of Tax Non-Residents from Activities Carried out through a Permanent Establishment no. 79599/19 from 17.12.2019.
 

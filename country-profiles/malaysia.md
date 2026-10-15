@@ -161,7 +161,7 @@ Sources: [Frequently Asked Questions (FAQ) on Matters Pertaining to Transfer Pri
 
 **No.**
 
-Malaysia do es not allow the use of any secret comparables for transfer pricing purposes.
+Malaysia does not allow the use of any secret comparables for transfer pricing purposes.
 
 ### Q10. Does your domestic transfer pricing framework allow or require the use of an arm's length range and/or statistical measure for determining arm's length remuneration?
 
@@ -363,7 +363,7 @@ Currently, the following persons are not require to prepare contemporaneous
 
 (a) individuals not carrying on a business; (b) individuals carrying on a business (including partnerships) who only engage in domestic controlled transactions; (c) person who entered into controlled transactions with a total amounting to not more than RM1 million; or (d) person who entered solely into domestic controlled transactions with another person where both parties – (i) do not enjoy tax incentives; (ii) are taxed at the same headline tax rate; or (iii) do not suffer losses for two consecutive years prior to the controlled transactions.
 
-However, the se persons are still required to comply with the arm's length principle for all controlled transactions they entered into and must ensure to keep all relevant documents that are related to the controlled transactions, including those that can support and prove arm' s length price.
+However, these persons are still required to comply with the arm's length principle for all controlled transactions they entered into and must ensure to keep all relevant documents that are related to the controlled transactions, including those that can support and prove arm's length price.
 
 Sources: [Malaysia Transfer Pricing Guidelines 2024, Chapter 1](https://www.hasil.gov.my/media/c55fiwyk/malaysia-transfer-pricing-guidelines-2024.pdf)
 

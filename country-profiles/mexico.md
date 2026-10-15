@@ -137,7 +137,7 @@ Sources: Official positions 4/ISR/NV and 33/ISR/NV
 
 Miscellaneous Regulations, include official positions regarding deductibility of royalty expenses related to intangible property developed in Mexico and the proper performance of the comparability analysis in transactions involving intangibles.
 
-Sources: [contained in Annex 3 of the 2025 Miscellaneous R egu lation s](http://omawww.sat.gob.mx/normatividad_RMF_RGCE/Paginas/documentos2025/rmf/anexos/Anexo3_RMF2025_03012025.pdf)
+Sources: [contained in Annex 3 of the 2025 Miscellaneous Regulations](http://omawww.sat.gob.mx/normatividad_RMF_RGCE/Paginas/documentos2025/rmf/anexos/Anexo3_RMF2025_03012025.pdf)
 
 ## Hard-to-Value Intangibles
 
