@@ -15,7 +15,7 @@ We convert those profiles into plain, structured markdown that keeps each jurisd
 | Folder | Contents | Primary source |
 |---|---|---|
 | `oecd-guidelines/` | Chapter-by-chapter explanations of the OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations (2022 edition) | [OECD Transfer Pricing Guidelines](https://www.oecd.org/en/publications/oecd-transfer-pricing-guidelines-for-multinational-enterprises-and-tax-administrations-2022_0e655865-en.html) |
-| `country-profiles/` | Rules for 18 jurisdictions: arm's length principle, methods, documentation thresholds, penalties and deadlines | [OECD transfer pricing country profiles](https://www.oecd.org/en/topics/sub-issues/transfer-pricing/transfer-pricing-country-profiles.html) |
+| `country-profiles/` | Rules for 27 jurisdictions: arm's length principle, methods, documentation thresholds, penalties and deadlines | [OECD transfer pricing country profiles](https://www.oecd.org/en/topics/sub-issues/transfer-pricing/transfer-pricing-country-profiles.html) |
 | `methods/` | Step-by-step guides to benchmarking, the arm's length range and the interquartile range | OECD Guidelines, Chapter III |
 | `checklists/` | Master file and local file documentation checklists (BEPS Action 13) | OECD Guidelines, Chapter V |
 | `prompts/` | Prompts for AI assistants, starting with a review of a local file against a country profile | Our own practice |

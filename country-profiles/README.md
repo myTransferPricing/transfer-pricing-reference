@@ -5,28 +5,37 @@ license: CC-BY-4.0
 
 # Transfer pricing rules by country
 
-Transfer pricing rules for 18 jurisdictions, one markdown file each, adapted from that country's OECD Transfer Pricing Country Profile: arm's length principle, accepted transfer pricing methods, comparability analysis, intangibles, intra-group services, financial transactions, documentation thresholds and deadlines, dispute resolution (APAs and MAP), safe harbours and penalties.
+Transfer pricing rules for 27 jurisdictions, one markdown file each, adapted from that country's OECD Transfer Pricing Country Profile: arm's length principle, accepted transfer pricing methods, comparability analysis, intangibles, intra-group services, financial transactions, documentation thresholds and deadlines, dispute resolution (APAs and MAP), safe harbours and penalties.
 
 Nine of them are also browsable, with PDF download, at [mytransferpricing.com/country-profiles](https://mytransferpricing.com/country-profiles). The others were converted directly from the OECD profile PDFs and are marked in the table.
 
 | Country | OECD profile updated | Questions | Browsable on the site | File |
 |---|---|---|---|---|
+| Australia | October 2025 | 39 | Not yet | [australia.md](./australia.md) |
 | Austria | July 2025 | 47 | Not yet | [austria.md](./austria.md) |
 | Belgium | July 2025 | 47 | [Yes](https://mytransferpricing.com/country-profiles/belgium) | [belgium.md](./belgium.md) |
 | Brazil | January 2026 | 47 | [Yes](https://mytransferpricing.com/country-profiles/brazil) | [brazil.md](./brazil.md) |
+| Canada | July 2025 | 36 | Not yet | [canada.md](./canada.md) |
+| China | October 2025 | 39 | Not yet | [china.md](./china.md) |
+| Czech Republic | October 2025 | 47 | Not yet | [czech-republic.md](./czech-republic.md) |
 | Denmark | May 2025 | 44 | Not yet | [denmark.md](./denmark.md) |
 | France | October 2025 | 47 | [Yes](https://mytransferpricing.com/country-profiles/france) | [france.md](./france.md) |
 | Germany | October 2025 | 47 | [Yes](https://mytransferpricing.com/country-profiles/germany) | [germany.md](./germany.md) |
 | Greece | January 2026 | 47 | [Yes](https://mytransferpricing.com/country-profiles/greece) | [greece.md](./greece.md) |
 | Ireland | July 2025 | 44 | Not yet | [ireland.md](./ireland.md) |
 | Italy | October 2025 | 39 | Not yet | [italy.md](./italy.md) |
+| Japan | October 2025 | 44 | Not yet | [japan.md](./japan.md) |
 | Luxembourg | May 2025 | 36 | Not yet | [luxembourg.md](./luxembourg.md) |
+| Malaysia | May 2025 | 37 | Not yet | [malaysia.md](./malaysia.md) |
+| Mexico | July 2025 | 39 | Not yet | [mexico.md](./mexico.md) |
 | Netherlands | July 2025 | 47 | [Yes](https://mytransferpricing.com/country-profiles/netherlands) | [netherlands.md](./netherlands.md) |
+| New Zealand | July 2025 | 44 | Not yet | [new-zealand.md](./new-zealand.md) |
 | Poland | October 2025 | 44 | Not yet | [poland.md](./poland.md) |
 | Singapore | July 2025 | 47 | [Yes](https://mytransferpricing.com/country-profiles/singapore) | [singapore.md](./singapore.md) |
 | Spain | July 2025 | 36 | Not yet | [spain.md](./spain.md) |
 | Sweden | October 2025 | 39 | Not yet | [sweden.md](./sweden.md) |
 | Switzerland | October 2025 | 47 | Not yet | [switzerland.md](./switzerland.md) |
+| United Arab Emirates | October 2025 | 47 | Not yet | [united-arab-emirates.md](./united-arab-emirates.md) |
 | United Kingdom | October 2025 | 47 | [Yes](https://mytransferpricing.com/country-profiles/united-kingdom) | [united-kingdom.md](./united-kingdom.md) |
 | United States | October 2025 | 47 | [Yes](https://mytransferpricing.com/country-profiles/united-states) | [united-states.md](./united-states.md) |
 
